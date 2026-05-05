@@ -1,0 +1,48 @@
+/* Seleção por TAG */
+
+body {
+    background-color: rgb(129, 247, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+    color: rgb(0, 0, 10);
+}
+
+p {
+    color: rgb(0, 4, 253);
+
+}
+
+li {
+    font-size: 30px;
+}
+
+.Destaque {
+    background-color: rgb(235, 138, 11);
+    font-weight: bold;
+    color: rgb(15, 15, 15);
+}
+
+.Texto {
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+#Principal {
+    color: rgb(134, 8, 252);
+    font-size: 25px;
+}
+
+
+/* Respostas:
+1- O que teve mais prioridade: class ou tag?
+R: A Class teve mais prioridade que a Tag;
+
+2- O id alterou o h1 mesmo tendo regra de tag?
+R: Sim. O ID tem mais prioridade que a Tag.
+
+3- Qual estilo foi aplicado no parágrafo com classe?
+R: Foi aplicado a cor de classe (.destaque de Laranja). 
+*/
